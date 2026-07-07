@@ -6,7 +6,7 @@ from datetime import datetime
 
 # 1. Konfigurasi API Key Gemini
 # GANTI TULISAN DI BAWAH DENGAN API KEY GRATIS DARI GOOGLE AI STUDIO
-client = genai.Client(api_key="AQ.Ab8RN6IK94X4v3E4taQGRJIEI2C-i6EGc3w3ENo-YIvJxiGLsQ")
+client = genai.Client(api_key="AQ.Ab8RN6Islfr9gLUqgmhZFlM4X_L9V3tbUzznMgiupIDBY_XVLQ")
 
 # --- ISI DATA DEFAULT SEKOLAH ANDA DI SINI ---
 DEFAULT_SEKOLAH = "SMP Negeri 1 Jakarta"
